@@ -1,4 +1,10 @@
 # Project-for Lean Start-Up
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Lean-Start-Up/" alt = "Visitors-Counter"/>
+</body>
+
+
 - Free University of Bozen-Bolzano - Faculty of Computer Science
 * Developer Heider Jeffer, Nina Karazanishvili, Ivana Dandrea, and Marco Pomalo
 * Supervisor Prof Xiaofeng Wang
